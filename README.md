@@ -1,2 +1,2 @@
 # magenta-api-docs
-Simple api.
+Simple api
