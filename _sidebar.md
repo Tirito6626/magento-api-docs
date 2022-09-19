@@ -1,8 +1,7 @@
 <!-- _sidebar.md -->
 
-## **Main**
+- **Main**
 * [Main Page](/)
  
-## **Image**
-### **Util**
+- **Util**
 * [rank](routes/rank.md)
