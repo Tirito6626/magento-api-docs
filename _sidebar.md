@@ -3,5 +3,5 @@
 - **Main**
 * [Main Page](/)
  
-- **Util**
-* [rank](routes/rank.md)
+- **Image**
+* [image/util/rank](routes/rank.md)
