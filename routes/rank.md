@@ -1,4 +1,9 @@
-# image/util/rank
+## image/util/rank
 Simple rank card
 
-# Endpoints
+### Endpoints
+$getQuery[avatar]
+$getQuery[username]
+$getQuery[xp]
+$getQuery[total]
+$getQuery[level]
