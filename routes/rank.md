@@ -1,7 +1,7 @@
 ## image/util/rank
 Simple rank card.
 
-### Endpoints
+### Parameters
 * name: `username` 
   type: `string` 
   
